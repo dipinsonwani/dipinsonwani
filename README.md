@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipinsonwani&label=Profile%20views&color=0e75b6&style=flat" alt="dipinsonwani" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter/Dart**
 
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
+- 👯 I’m looking to collaborate on **Open Source Flutter/Dart Libraries**
 
-- 💬 Ask me about **Flutter | Java**
+- 💬 Ask me about **Flutter | Dart**
 
 - ⚡ Fun fact **If I die, I would commit.. push.. and then die peacefully.**
 
